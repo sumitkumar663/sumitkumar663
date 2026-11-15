@@ -32,11 +32,5 @@ I build backend systems, automation workflows and GenAI apps. I've spent 4+ year
 ### 🌱 Currently exploring
 Agentic AI, type-safe LLM tooling, and production-grade RAG
 
-### 🎥 Code & Crack
-I make short videos on coding and interview prep on YouTube: **[@CodeAndCrackDev](https://youtube.com/@CodeAndCrackDev)**
-
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/sumit-kumar663/) · [YouTube](https://youtube.com/@CodeAndCrackDev)
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitkumar663&show_icons=true&hide_border=true)
+[LinkedIn](https://www.linkedin.com/in/sumit-kumar663/) 
